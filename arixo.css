@@ -1522,3 +1522,18 @@
     background-color: var(--darkplus-bg);
     color: var(--darkplus-links);
   }
+.wordmark-2u86JB:after {
+content: '🔮ANOTHER ETERNITY🔮 v1.1.3';
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 30px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding: 0 15px;
+    z-index: -1;
+    width: 100%;
+    height: 20px;
+    background: transparent;
+    color: var(--Main-Color);
+}
