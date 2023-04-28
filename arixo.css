@@ -945,7 +945,7 @@
   }
   .wordmark-2u86JB {
     display: flex;
-    margin-top: 5px;
+    margin-top: 4px;
     align-items: center;
     padding: 0 6px;
     height: calc(100% + 4px);
@@ -1539,8 +1539,8 @@
 .titleBar-1it3bQ > :nth-child(3),
 .titleBar-1it3bQ > :nth-child(4) {
   border-radius: 60px;
-  width: 15px;
-  height: 15px;
+  width: 14px;
+  height: 14px;
   margin-top: 8px;
   margin-left: 4px;
   margin-right: 10px;
